@@ -25,7 +25,7 @@ This folder includes projects in Unreal Engine 4
 This folder includes projects in Unity
 
 1. UnityLevel is a sample Unity level using the 3DGameKit
-    - Contributions Level1 and all C# scripts
+    - Contributions Level 1 and Level 2 and all C# scripts
 2. Multimodal is a sample game featuring multiple modalities
     - Contributions
 
