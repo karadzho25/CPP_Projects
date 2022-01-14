@@ -1,6 +1,6 @@
 # Projects
 
-This GitHub includes CPP sample games
+This GitHub includes sample CPP games
 
 ## TripleX
 
